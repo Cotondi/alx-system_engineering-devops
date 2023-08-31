@@ -1,2 +1,2 @@
 #!/bin/bash
-chmode o+rwx hello
+chmode 007 hello
